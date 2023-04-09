@@ -1,0 +1,106 @@
+:root {
+   --parent-color: #00387c;
+   --gray-cl: rgb(131, 131, 131);
+   --gray-sm-cl: rgb(220, 218, 218);
+   --ic-cl: rgb(135, 133, 133);
+   --dark-cl: rgb(45, 45, 45);
+   --dark-smooth-cl: rgb(51, 51, 51);
+   --main-cl: #fff;
+   --_1xar4q0: 15px;
+   --_1xar4q1: 12px;
+   --_1xar4q2: 7px 16px 7px;
+   --_1xar4q3: 15px;
+   --_1xar4q4: inherit;
+   --_1xar4q5: 700;
+   --_1xar4q6: 14px 24px;
+   --_1xar4q7: 6px 16px;
+   --_1xar4q8: 15px;
+   --_1xar4q9: #00387c;
+   --_1xar4qa: #005641;
+   --_1xar4qb: #fff;
+   --_1xar4qc: #bfc2d5;
+   --_1xar4qd: #002256;
+   --_1xar4qe: #000356;
+   --_1xar4qf: #003327;
+   --_1xar4qg: #003327;
+   --_1xar4qh: #fff;
+   --_1xar4qi: #fff;
+   --_1xar4qj: #005641;
+   --_1xar4qk: #005641;
+   --_1xar4ql: #bfd5cf;
+   --_1xar4qm: #005641;
+   --_1xar4qn: #005641;
+   --_1xar4qo: #003327;
+   --_1xar4qp: #003327;
+   --_1xar4qq: #fff;
+   --_1xar4qr: #ff4957;
+   --_1xar4qs: #ffccd0;
+   --_1xar4qt: #e5e5e5;
+   --_1xar4qu: #2668be;
+   --_1xar4qv: #bed5cf;
+   --_1xar4qw: #333;
+   --_1xar4qx: rgba(0, 0, 0, 0.4);
+   --_1xar4qy: #fff;
+   --_1xar4qz: rgba(52, 94, 84, 0.2);
+   --_1xar4q10: #fff;
+   --_1xar4q11: #333;
+   --_1xar4q12: #fff;
+   --_1xar4q13: rgba(0, 0, 0, 0.1);
+   --_1xar4q14: #000;
+   --_1xar4q15: #8c8c8c;
+   --_1xar4q16: #00387c;
+   --_1xar4q17: #84aea3;
+   --_1xar4q18: #bfd5cf;
+   --_1xar4q19: #f3f7f6;
+   --_1xar4q1a: #770038;
+   --_1xar4q1b: #4d0024;
+   --_1xar4q1c: #f0f0f0;
+   --_1xar4q1d: #bfd5cf;
+   --_1xar4q1e: #005641;
+   --_1xar4q1f: #770038;
+   --_1xar4q1g: #fff5da;
+   --_1xar4q1h: #7a4806;
+   --_1xar4q1i: #ec8a0b;
+   --_1xar4q1j: #fcf3d8;
+   --_1xar4q1k: maroon;
+   --_1xar4q1l: #cb1010;
+   --_1xar4q1m: #ffe7e7;
+   --_1xar4q1n: #184168;
+   --_1xar4q1o: #3586d1;
+   --_1xar4q1p: #e9f5ff;
+   --_1xar4q1q: #165a1b;
+   --_1xar4q1r: #29a331;
+   --_1xar4q1s: #e7f8e9;
+   --_1xar4q1t: #262626;
+   --_1xar4q23: 'DM Sans', 'Arial', sans-serif;
+   --_1xar4q24: 100%;
+   --_1xar4q1u: 0 0 5px rgba(0, 0, 0, 0.2);
+   --_1xar4q1v: 0;
+   --_1xar4q1w: -1px;
+   --_1xar4q1x: -1px;
+   --_1xar4q1y: -2px;
+   --_1xar4q1z: -3px;
+   --_1xar4q20: -2px;
+   --_1xar4q21: -2px;
+   --_1xar4q22: -3px;
+}
+
+.container_sm {
+   max-width: 1200px;
+}
+._hidden {
+   display: none;
+}
+
+._hidden_input {
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100% !important;
+   height: 100% !important;
+}
+
+._un_ {
+   visibility: hidden;
+   opacity: 0;
+}
